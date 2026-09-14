@@ -1,7 +1,7 @@
 {
   "name": "renovate-npm-package-reproduction",
   "dependencies": {
-    "@juancarlosjr97/renovate-npm-package-issue": "1.0.0",
+    "@juancarlosjr97/renovate-npm-package-issue": "1.0.1",
     "@juancarlosjr97/renovate-npm-package-no-issue": "1.0.0"
   }
 }
